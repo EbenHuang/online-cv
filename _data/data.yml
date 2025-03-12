@@ -62,18 +62,11 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    An accomplished DevOps Engineer/SRE deeply rooted in the DevSecOps philosophy, with a proven track 
-    record of maintaining infrastructure across multiple cloud platforms and on-premise, supporting 3-tier 
-    application, crafting robust cloud environments, implementing security in transit and at rest, also 
-    enhancing build and deployment processes. A seasoned architect of end-to-end CI/CD pipelines, I 
-    specialize in infrastructure migration and modernization, automating operational workflows and 
-    fortifying cloud security and compliance. Drawing from a solid foundation in Systems Administration, my 
-    expertise spans Infrastructure, Networking, CICD, Containerisation, Automation, Security, Database and 
-    Virtualization, making me a versatile and invaluable asset to any organization.  
+      Accomplished DevOps/SRE Engineer specializing in DevSecOps practices, with expertise in designing and managing hybrid cloud (AWS/Azure/GCP) and on-premises infrastructures for scalable, secure 3-tier applications. Proficient in automating CI/CD pipelines, securing cloud environments, and optimizing deployment workflows to accelerate delivery while minimizing downtime. Adept at modernizing legacy systems, migrating infrastructure, and reducing mean time to recovery (MTTR) via proactive monitoring and incident management. Skilled in Infrastructure-as-Code (Terraform), containerization (Docker/Kubernetes), and collaboration tools, with a strong focus on aligning engineering, security, and operations teams to drive reliability and agility. Committed to fostering a DevOps culture that balances speed, compliance, and resilience, delivering measurable improvements in deployment frequency and system stability. 
 education:
   title: Education
   info:
-  - degree: Bachelor of Engineering, with Honours Major in Telecommunicatio
+  - degree: Bachelor of Telecommunication Engineering
     university: Macquarie University
     time: 2011 - 2015
     details: |
@@ -126,28 +119,28 @@ experiences:
     time: January 2021 – June 2022
     company: Concentrix Catalyst (Tigerspike) 
     details: |
-        - ​Supported Enterprise-Scale Applications: Delivered reliable, scalable 3-tier cloud solutions for high-profile clients (Public Transport Victoria, Vicroad, Department of Communities and Justice), ensuring 99.9% uptime and rapid issue resolution.
-        ​- Automated Critical Operations: Reduced manual workload by 50% by automating patching, alerting, monitoring, self-healing, infrastructure scaling, and disaster recovery (DR), minimizing downtime risks.
-        ​- Optimized Cloud Performance: Improved security, latency, and cost-efficiency by rightsizing resources, implementing HA/DR strategies, and enforcing strict SLA compliance, achieving a 30% reduction in cloud spending.
-        ​- Mastered Infrastructure-as-Code (IaC): Built and maintained scalable cloud environments using Terraform/CloudFormation, enabling rapid provisioning and reducing deployment errors.
-        ​- Engineered Resilient Architectures: Designed auto-scaling Kubernetes (EKS) and Amazon ECS environments for microservices, coupled with proactive monitoring (CloudWatch/New Relic) and alerting (SNS/PagerDuty).
-        ​- Simplified Serverless Solutions: Developed cost-effective, event-driven architectures with AWS Lambda and API Gateway, handling 10k+ concurrent requests with minimal overhead.
-        ​- Strengthened Observability: Centralized logging (CloudWatch/Splunk) and alerting workflows, enabling real-time diagnostics and reducing critical incident resolution time by 50%.
-        ​- Mentored Teams & Driving Change: Trained 10+ support engineers on DevOps practices and change management, fostering a culture of automation and compliance.
-        ​- Executed Risk Mitigation: Led high-stakes deployments with detailed rollback plans, ensuring zero data loss during major updates.
+        - Supported Enterprise-Scale Applications: Delivered reliable, scalable 3-tier cloud solutions for high-profile clients (Public Transport Victoria, Vicroad, Department of Communities and Justice), ensuring 99.9% uptime and rapid issue resolution.
+        - Automated Critical Operations: Reduced manual workload by 50% by automating patching, alerting, monitoring, self-healing, infrastructure scaling, and disaster recovery (DR), minimizing downtime risks.
+        - Optimized Cloud Performance: Improved security, latency, and cost-efficiency by rightsizing resources, implementing HA/DR strategies, and enforcing strict SLA compliance, achieving a 30% reduction in cloud spending.
+        - Mastered Infrastructure-as-Code (IaC): Built and maintained scalable cloud environments using Terraform/CloudFormation, enabling rapid provisioning and reducing deployment errors.
+        - Engineered Resilient Architectures: Designed auto-scaling Kubernetes (EKS) and Amazon ECS environments for microservices, coupled with proactive monitoring (CloudWatch/New Relic) and alerting (SNS/PagerDuty).
+        - Simplified Serverless Solutions: Developed cost-effective, event-driven architectures with AWS Lambda and API Gateway, handling 10k+ concurrent requests with minimal overhead.
+        - Strengthened Observability: Centralized logging (CloudWatch/Splunk) and alerting workflows, enabling real-time diagnostics and reducing critical incident resolution time by 50%.
+        - Mentored Teams & Driving Change: Trained 10+ support engineers on DevOps practices and change management, fostering a culture of automation and compliance.
+        - Executed Risk Mitigation: Led high-stakes deployments with detailed rollback plans, ensuring zero data loss during major updates.
 
   - role: Cloud Engineer 
     time: March 2019 – January 2021 
     company: Meat and Livestock Australia 
     details: |
         - Managed Windows Environments: Oversaw server/application setup, networking, and monitoring for enterprise clients, ensuring 99.9% uptime and seamless application releases.
-        - ​Supported Hybrid Infrastructure: Delivered high-availability Web/App/Database services across cloud (AWS) and on-premise configurations, resolving critical incidents within 15 minutes.
-        - ​Administered Virtualized & Cloud Servers: Expertly handled Active Directory (AD)/IAM, DNS, Failover Clusters, Load Balancers, Secure File Transfers, and databases, optimizing performance.
-        ​- Containerized Solutions: Automated Docker workflows for Elasticsearch, Kibana, and API endpoints, reducing deployment errors and improving scalability.
-        ​- Automation & Security: Streamlined user management, server provisioning, and auditing with PowerShell scripts and IaC tools, cutting manual tasks by 60% and enhancing compliance.
-        ​- Monitoring & Alerting: Built proactive systems with Nagios, CloudWatch, and New Relic, reducing meantime-to-resolution (MTTR) for outages by 50%.
-        ​- CICD Pipeline Expert: Orchestrated CI/CD workflows using Bitbucket, TeamCity, and Octopus, accelerating release cycles and improving code deployment frequency.
-        ​- AWS Migration Leader: Executed a zero-downtime migration of on-premise infrastructure to AWS, achieving data integrity and client satisfaction during the cutover.
+        - Supported Hybrid Infrastructure: Delivered high-availability Web/App/Database services across cloud (AWS) and on-premise configurations, resolving critical incidents within 15 minutes.
+        - Administered Virtualized & Cloud Servers: Expertly handled Active Directory (AD)/IAM, DNS, Failover Clusters, Load Balancers, Secure File Transfers, and databases, optimizing performance.
+        - Containerized Solutions: Automated Docker workflows for Elasticsearch, Kibana, and API endpoints, reducing deployment errors and improving scalability.
+        - Automation & Security: Streamlined user management, server provisioning, and auditing with PowerShell scripts and IaC tools, cutting manual tasks by 60% and enhancing compliance.
+        - Monitoring & Alerting: Built proactive systems with Nagios, CloudWatch, and New Relic, reducing meantime-to-resolution (MTTR) for outages by 50%.
+        - CICD Pipeline Expert: Orchestrated CI/CD workflows using Bitbucket, TeamCity, and Octopus, accelerating release cycles and improving code deployment frequency.
+        - AWS Migration Leader: Executed a zero-downtime migration of on-premise infrastructure to AWS, achieving data integrity and client satisfaction during the cutover.
 
   - role: System Administrator - Contract
     time: June 2018 – December 2018
@@ -156,35 +149,35 @@ experiences:
         - ​Managed Critical Systems: Oversaw RDS Terminal Server, Active Directory (AD), Group Policy, File Shares, Print Servers, Exchange Server, and Thin Clients, ensuring 99.9% uptime for 500+ users.
         - ​Streamlined File & User Services: Expertly handled file management, LDAP, user provisioning, web hosting, and CRM hosting, reducing service disruptions through automated workflows.
         - ​Network Architecture & Security: Designed and configured Cisco IOS/FortiGate networks with load balancing and VIP setups, improving bandwidth utilization and blocking unauthorized traffic.
-        ​- Virtualization Oversight: Administered VMware Datacenter clusters and hosts, optimizing resource allocation to support 200+ VMs with minimal latency and downtime.
-        ​- Wi-Fi & Telephony Management: Implemented VLAN-based Wi-Fi configurations for secure guest/access networks and managed IP-phone systems, enhancing user connectivity and compliance with GDPR.
-        ​- Backup & Hardware Maintenance: Led Veeam, DELL SAN, and Netgear NAS backups, ensuring zero data loss during ransomware simulations. Conducted proactive hardware repairs.
-        ​- Infrastructure Maintenance: Executed cable patching and hardware upgrades, achieving a high network uptime rate and earning recognition for "Best IT Support Team" in Q3.
+        - Virtualization Oversight: Administered VMware Datacenter clusters and hosts, optimizing resource allocation to support 200+ VMs with minimal latency and downtime.
+        - Wi-Fi & Telephony Management: Implemented VLAN-based Wi-Fi configurations for secure guest/access networks and managed IP-phone systems, enhancing user connectivity and compliance with GDPR.
+        - Backup & Hardware Maintenance: Led Veeam, DELL SAN, and Netgear NAS backups, ensuring zero data loss during ransomware simulations. Conducted proactive hardware repairs.
+        - Infrastructure Maintenance: Executed cable patching and hardware upgrades, achieving a high network uptime rate and earning recognition for "Best IT Support Team" in Q3.
 
   - role: IT Support Engineer 
     time:  January 2017 - June 2018
     company: Fidessa
     details: |
         - ​Active Directory & File Services: Streamlined user/computer management, DNS, DHCP, and file sharing for 1,000+ users.
-        ​- Desktop Environment Management: Deployed Windows desktops using tools like SCCM/MDT, optimizing OS updates and reducing deployment time.
-        ​- Virtualization Oversight: Managed VMware/VirtualBox VMs, balancing resource allocation to support 200+ virtual machines with minimal latency and downtime.
-        ​- Network Infrastructure: Configured Cisco routers/switches and FortiGate firewalls, improving network throughput and blocking unauthorized traffic.
-        ​- Secure Remote Access: Administered Juniper/Pulse Secure VPNs and Bluecoat proxies, enabling secure remote connectivity for 500+ remote users while maintaining compliance with GDPR.
-        ​- Storage & Security: Maintained SAN/NAS solutions (NetApp/EMC) with redundant backups, ensuring zero data loss during ransomware drills. Automated security patches for network devices, reducing vulnerability exposure.
-        ​- Print & Hardware Support: Optimized printer configurations and UPS/ATS systems, cutting print-related downtime and ensuring power continuity for critical servers.
-        ​- Unified Communications: Set up SIP phones (Cisco/Juniper) with call forwarding and voicemail integration, improving internal communication efficiency by 30%.
-        ​- Video Conferencing: Implemented Zoom/Microsoft Teams solutions with QoS prioritization, enabling seamless 100+ concurrent video calls during global meetings.
+        - Desktop Environment Management: Deployed Windows desktops using tools like SCCM/MDT, optimizing OS updates and reducing deployment time.
+        - Virtualization Oversight: Managed VMware/VirtualBox VMs, balancing resource allocation to support 200+ virtual machines with minimal latency and downtime.
+        - Network Infrastructure: Configured Cisco routers/switches and FortiGate firewalls, improving network throughput and blocking unauthorized traffic.
+        - Secure Remote Access: Administered Juniper/Pulse Secure VPNs and Bluecoat proxies, enabling secure remote connectivity for 500+ remote users while maintaining compliance with GDPR.
+        - Storage & Security: Maintained SAN/NAS solutions (NetApp/EMC) with redundant backups, ensuring zero data loss during ransomware drills. Automated security patches for network devices, reducing vulnerability exposure.
+        - Print & Hardware Support: Optimized printer configurations and UPS/ATS systems, cutting print-related downtime and ensuring power continuity for critical servers.
+        - Unified Communications: Set up SIP phones (Cisco/Juniper) with call forwarding and voicemail integration, improving internal communication efficiency by 30%.
+        - Video Conferencing: Implemented Zoom/Microsoft Teams solutions with QoS prioritization, enabling seamless 100+ concurrent video calls during global meetings.
 
   - role: ICT Technical Support
     time:  June 2015 - December 2016
     company: Moraitis Communications 
     details: |
         - ​Secured Network Infrastructure: Configured VPNs, firewalls, routing, and VLANs to safeguard sensitive data, achieving 99.9% network uptime and zero breaches during audits.
-        ​- Managed Active Directory & File Services: Streamlined user authentication, file sharing, FTP, and print services for 1,000+ users.
-        ​- Enhanced Email Security: Implemented advanced anti-spam policies (e.g., SPF, DKIM), blocking 95% of malicious emails and improving compliance with GDPR/PCI DSS standards.
-        ​- Remote Work Solutions: Extended Remote Desktop support to Windows/Mac users, enabling secure remote access for 500+ employees .
-        ​- Optimized Web Services: Managed Apache configurations and DNS setups, improving website load times and ensuring high availability for critical business applications.
-        ​- Strengthened Vendor Relationships: Led project account management, negotiating SLAs and resolving vendor issues swiftly to meet 100% delivery deadlines.
+        - Managed Active Directory & File Services: Streamlined user authentication, file sharing, FTP, and print services for 1,000+ users.
+        - Enhanced Email Security: Implemented advanced anti-spam policies (e.g., SPF, DKIM), blocking 95% of malicious emails and improving compliance with GDPR/PCI DSS standards.
+        - Remote Work Solutions: Extended Remote Desktop support to Windows/Mac users, enabling secure remote access for 500+ employees .
+        - Optimized Web Services: Managed Apache configurations and DNS setups, improving website load times and ensuring high availability for critical business applications.
+        - Strengthened Vendor Relationships: Led project account management, negotiating SLAs and resolving vendor issues swiftly to meet 100% delivery deadlines.
 
 certifications:
   title: Certifications
@@ -207,7 +200,7 @@ certifications:
     organization: Red Hat Linux
   - name: Cisco Certified Network Professional
     organization: Cisco
-    
+
 
 projects:
   title: Projects
