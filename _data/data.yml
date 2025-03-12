@@ -96,24 +96,24 @@ experiences:
     time: June 2023 - Present
     company: EPAM/Corelogic
     details: |
-        - Streamlined Data Workflows: Managed Google Cloud resources ( GKE, GCS, Bigquery and Dataproc) to build a scalable data pipeline for a high-volume data platform, improving data processing efficiency and reliability.
-        - Migrated to Kubernetes: Transferred containerized applications to Google Kubernetes Engine (GKE), achieving better resource utilization, auto-scaling, and easier maintenance while preserving performance.
-        - ​Infrastructure as Code (IAC): Configured Terraform and Ansible to automate GCP service deployment (Dataflow, Dataproc, CloudSQL, BigQuery), cutting deployment time by 40% and minimizing configuration errors.
-        - Enhanced CI/CD Pipelines: Migrated CI workflows from Buddy CI to GitHub Actions, enabling faster and more reliable deployments with built-in security checks and reduced dependency on legacy tools.
-        - ​Security & Compliance: Automated key rotation for GCP services and implemented server repave (OS/update cycles) to patch vulnerabilities, strengthening security posture and meeting compliance standards.
-        - ​Observability & Analytics: Implemented Elastic Stack (ELK) for centralized logging and metrics, enabling real-time monitoring and reducing incident resolution time by 30%.
-        - ​BigQuery Integration: Facilitated seamless connectivity between GCP BigQuery and Collibra, streamlining data governance and empowering stakeholders with unified analytics insights.
+        - **Streamlined Data Workflows:** Managed Google Cloud resources ( GKE, GCS, Bigquery and Dataproc) to build a scalable data pipeline for a high-volume data platform, improving data processing efficiency and reliability.
+        - **Migrated to Kubernetes:** Transferred containerized applications to Google Kubernetes Engine (GKE), achieving better resource utilization, auto-scaling, and easier maintenance while preserving performance.
+        - ​**Infrastructure as Code (IAC):** Configured Terraform and Ansible to automate GCP service deployment (Dataflow, Dataproc, CloudSQL, BigQuery), cutting deployment time by 40% and minimizing configuration errors.
+        - **Enhanced CI/CD Pipelines:** Migrated CI workflows from Buddy CI to GitHub Actions, enabling faster and more reliable deployments with built-in security checks and reduced dependency on legacy tools.
+        - ​**Security & Compliance:** Automated key rotation for GCP services and implemented server repave (OS/update cycles) to patch vulnerabilities, strengthening security posture and meeting compliance standards.
+        - ​**Observability & Analytics:** Implemented Elastic Stack (ELK) for centralized logging and metrics, enabling real-time monitoring and reducing incident resolution time by 30%.
+        - ​**BigQuery Integration:** Facilitated seamless connectivity between GCP BigQuery and Collibra, streamlining data governance and empowering stakeholders with unified analytics insights.
 
   - role: Devops Engineer
     time: June 2022 - December 2022
     company: Smokeball
     details: |
-        - Built AWS Infrastructure: Designed and deployed a core AWS stack (EC2, S3, VPC, IAM) using Terraform, reducing deployment time and ensuring consistent, reproducible environments for development teams.
-        - ​Package Management: Created a Docker-based NuGet package manager for efficient software distribution and improving CI/CD pipeline reliability.
-        - ​Managed Amazon EKS: Orchestrated containerized applications on Amazon Elastic Kubernetes Service (EKS), optimizing resource scaling and reducing runtime costs through cluster autoscaling and pod scheduling.
-        - ​Monitoring & Alerting: Implemented centralized logging and alerting for API endpoints (AWS CloudWatch + Grafana), reducing meantime-to-resolution (MTTR) for critical issues by 40%.
-        - ​End-to-End Dev Support: Supported the full software development lifecycle (SDLC), collaborating with engineers to deploy features faster and resolve blockers, accelerating release cycles.
-        - ​Automation & Efficiency: Automated repetitive tasks (backups, deployments, log rotations) across AWS and on-prem servers, freeing up 15+ hours/week for strategic initiatives.
+        - **Built AWS Infrastructure:** Designed and deployed a core AWS stack (EC2, S3, VPC, IAM) using Terraform, reducing deployment time and ensuring consistent, reproducible environments for development teams.
+        - **​Package Management:** Created a Docker-based NuGet package manager for efficient software distribution and improving CI/CD pipeline reliability.
+        - ​**Managed Amazon EKS:** Orchestrated containerized applications on Amazon Elastic Kubernetes Service (EKS), optimizing resource scaling and reducing runtime costs through cluster autoscaling and pod scheduling.
+        - ​**Monitoring & Alerting:** Implemented centralized logging and alerting for API endpoints (AWS CloudWatch + Grafana), reducing meantime-to-resolution (MTTR) for critical issues by 40%.
+        - ​**End-to-End Dev Support:** Supported the full software development lifecycle (SDLC), collaborating with engineers to deploy features faster and resolve blockers, accelerating release cycles.
+        - ​**Automation & Efficiency:** Automated repetitive tasks (backups, deployments, log rotations) across AWS and on-prem servers, freeing up 15+ hours/week for strategic initiatives.
 
   - role: Site Reliability Engineer 
     time: January 2021 – June 2022
