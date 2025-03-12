@@ -13,19 +13,19 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: eben.huangyibin@gmail.com
+  phone: 0406 975 565
+  timezone: Australia/Sydney # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  website: https://ebenhuang.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
+  linkedin: https://www.linkedin.com/in/eben-huang-a15ba6a3/
+  xing: 
+  github: 
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky:  # Specify your full Bluesky handle
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -38,44 +38,44 @@ sidebar:
     title: Languages
     info:
     - idiom: English
+      level: Professional
+
+    - idiom: Maindrain/Cantonese
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Basketball
       link:
 
 
-    - item: Snowboarding
+    - item: Swimming
       link:
 
 
-    - item: Cooking
+    - item: Travelling
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    An accomplished DevOps Engineer/SRE deeply rooted in the DevSecOps philosophy, with a proven track 
+    record of maintaining infrastructure across multiple cloud platforms and on-premise, supporting 3-tier 
+    application, crafting robust cloud environments, implementing security in transit and at rest, also 
+    enhancing build and deployment processes. A seasoned architect of end-to-end CI/CD pipelines, I 
+    specialize in infrastructure migration and modernization, automating operational workflows and 
+    fortifying cloud security and compliance. Drawing from a solid foundation in Systems Administration, my 
+    expertise spans Infrastructure, Networking, CICD, Containerisation, Automation, Security, Database and 
+    Virtualization, making me a versatile and invaluable asset to any organization.  
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Bachelor of Engineering, with Honours Major in Telecommunicatio
+    university: Macquarie University
+    time: 2011 - 2015
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -84,9 +84,9 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Business Administration
+    university: Asia Pacific Management Institute, Singapore
+    time: 2006 - 2009
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -99,84 +99,115 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Senior Devops Engineer
+    time: June 2023 - Present
+    company: EPAM/Corelogic
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+        - Streamlined Data Workflows: Managed Google Cloud resources ( GKE, GCS, Bigquery and Dataproc) to build a scalable data pipeline for a high-volume data platform, improving data processing efficiency and reliability.
+        - Migrated to Kubernetes: Transferred containerized applications to Google Kubernetes Engine (GKE), achieving better resource utilization, auto-scaling, and easier maintenance while preserving performance.
+        - ​Infrastructure as Code (IAC): Configured Terraform and Ansible to automate GCP service deployment (Dataflow, Dataproc, CloudSQL, BigQuery), cutting deployment time by 40% and minimizing configuration errors.
+        - Enhanced CI/CD Pipelines: Migrated CI workflows from Buddy CI to GitHub Actions, enabling faster and more reliable deployments with built-in security checks and reduced dependency on legacy tools.
+        - ​Security & Compliance: Automated key rotation for GCP services and implemented server repave (OS/update cycles) to patch vulnerabilities, strengthening security posture and meeting compliance standards.
+        - ​Observability & Analytics: Implemented Elastic Stack (ELK) for centralized logging and metrics, enabling real-time monitoring and reducing incident resolution time by 30%.
+        - ​BigQuery Integration: Facilitated seamless connectivity between GCP BigQuery and Collibra, streamlining data governance and empowering stakeholders with unified analytics insights.
+
+  - role: Devops Engineer
+    time: June 2022 - December 2022
+    company: Smokeball
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+        - Built AWS Infrastructure: Designed and deployed a core AWS stack (EC2, S3, VPC, IAM) using Terraform, reducing deployment time and ensuring consistent, reproducible environments for development teams.
+        - ​Package Management: Created a Docker-based NuGet package manager for efficient software distribution and improving CI/CD pipeline reliability.
+        - ​Managed Amazon EKS: Orchestrated containerized applications on Amazon Elastic Kubernetes Service (EKS), optimizing resource scaling and reducing runtime costs through cluster autoscaling and pod scheduling.
+        - ​Monitoring & Alerting: Implemented centralized logging and alerting for API endpoints (AWS CloudWatch + Grafana), reducing meantime-to-resolution (MTTR) for critical issues by 40%.
+        - ​End-to-End Dev Support: Supported the full software development lifecycle (SDLC), collaborating with engineers to deploy features faster and resolve blockers, accelerating release cycles.
+        - ​Automation & Efficiency: Automated repetitive tasks (backups, deployments, log rotations) across AWS and on-prem servers, freeing up 15+ hours/week for strategic initiatives.
+
+  - role: Site Reliability Engineer 
+    time: January 2021 – June 2022
+    company: Concentrix Catalyst (Tigerspike) 
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        - ​Supported Enterprise-Scale Applications: Delivered reliable, scalable 3-tier cloud solutions for high-profile clients (Public Transport Victoria, Vicroad, Department of Communities and Justice), ensuring 99.9% uptime and rapid issue resolution.
+        ​- Automated Critical Operations: Reduced manual workload by 50% by automating patching, alerting, monitoring, self-healing, infrastructure scaling, and disaster recovery (DR), minimizing downtime risks.
+        ​- Optimized Cloud Performance: Improved security, latency, and cost-efficiency by rightsizing resources, implementing HA/DR strategies, and enforcing strict SLA compliance, achieving a 30% reduction in cloud spending.
+        ​- Mastered Infrastructure-as-Code (IaC): Built and maintained scalable cloud environments using Terraform/CloudFormation, enabling rapid provisioning and reducing deployment errors.
+        ​- Engineered Resilient Architectures: Designed auto-scaling Kubernetes (EKS) and Amazon ECS environments for microservices, coupled with proactive monitoring (CloudWatch/New Relic) and alerting (SNS/PagerDuty).
+        ​- Simplified Serverless Solutions: Developed cost-effective, event-driven architectures with AWS Lambda and API Gateway, handling 10k+ concurrent requests with minimal overhead.
+        ​- Strengthened Observability: Centralized logging (CloudWatch/Splunk) and alerting workflows, enabling real-time diagnostics and reducing critical incident resolution time by 50%.
+        ​- Mentored Teams & Driving Change: Trained 10+ support engineers on DevOps practices and change management, fostering a culture of automation and compliance.
+        ​- Executed Risk Mitigation: Led high-stakes deployments with detailed rollback plans, ensuring zero data loss during major updates.
+
+  - role: Cloud Engineer 
+    time: March 2019 – January 2021 
+    company: Meat and Livestock Australia 
+    details: |
+        - Managed Windows Environments: Oversaw server/application setup, networking, and monitoring for enterprise clients, ensuring 99.9% uptime and seamless application releases.
+        - ​Supported Hybrid Infrastructure: Delivered high-availability Web/App/Database services across cloud (AWS) and on-premise configurations, resolving critical incidents within 15 minutes.
+        - ​Administered Virtualized & Cloud Servers: Expertly handled Active Directory (AD)/IAM, DNS, Failover Clusters, Load Balancers, Secure File Transfers, and databases, optimizing performance.
+        ​- Containerized Solutions: Automated Docker workflows for Elasticsearch, Kibana, and API endpoints, reducing deployment errors and improving scalability.
+        ​- Automation & Security: Streamlined user management, server provisioning, and auditing with PowerShell scripts and IaC tools, cutting manual tasks by 60% and enhancing compliance.
+        ​- Monitoring & Alerting: Built proactive systems with Nagios, CloudWatch, and New Relic, reducing meantime-to-resolution (MTTR) for outages by 50%.
+        ​- CICD Pipeline Expert: Orchestrated CI/CD workflows using Bitbucket, TeamCity, and Octopus, accelerating release cycles and improving code deployment frequency.
+        ​- AWS Migration Leader: Executed a zero-downtime migration of on-premise infrastructure to AWS, achieving data integrity and client satisfaction during the cutover.
+
+  - role: System Administrator - Contract
+    time: June 2018 – December 2018
+    company: Macquarie Health Corporation
+    details: |
+        - ​Managed Critical Systems: Oversaw RDS Terminal Server, Active Directory (AD), Group Policy, File Shares, Print Servers, Exchange Server, and Thin Clients, ensuring 99.9% uptime for 500+ users.
+        - ​Streamlined File & User Services: Expertly handled file management, LDAP, user provisioning, web hosting, and CRM hosting, reducing service disruptions through automated workflows.
+        - ​Network Architecture & Security: Designed and configured Cisco IOS/FortiGate networks with load balancing and VIP setups, improving bandwidth utilization and blocking unauthorized traffic.
+        ​- Virtualization Oversight: Administered VMware Datacenter clusters and hosts, optimizing resource allocation to support 200+ VMs with minimal latency and downtime.
+        ​- Wi-Fi & Telephony Management: Implemented VLAN-based Wi-Fi configurations for secure guest/access networks and managed IP-phone systems, enhancing user connectivity and compliance with GDPR.
+        ​- Backup & Hardware Maintenance: Led Veeam, DELL SAN, and Netgear NAS backups, ensuring zero data loss during ransomware simulations. Conducted proactive hardware repairs.
+        ​- Infrastructure Maintenance: Executed cable patching and hardware upgrades, achieving a high network uptime rate and earning recognition for "Best IT Support Team" in Q3.
+
+  - role: IT Support Engineer 
+    time:  January 2017 - June 2018
+    company: Fidessa
+    details: |
+        - ​Active Directory & File Services: Streamlined user/computer management, DNS, DHCP, and file sharing for 1,000+ users.
+        ​- Desktop Environment Management: Deployed Windows desktops using tools like SCCM/MDT, optimizing OS updates and reducing deployment time.
+        ​- Virtualization Oversight: Managed VMware/VirtualBox VMs, balancing resource allocation to support 200+ virtual machines with minimal latency and downtime.
+        ​- Network Infrastructure: Configured Cisco routers/switches and FortiGate firewalls, improving network throughput and blocking unauthorized traffic.
+        ​- Secure Remote Access: Administered Juniper/Pulse Secure VPNs and Bluecoat proxies, enabling secure remote connectivity for 500+ remote users while maintaining compliance with GDPR.
+        ​- Storage & Security: Maintained SAN/NAS solutions (NetApp/EMC) with redundant backups, ensuring zero data loss during ransomware drills. Automated security patches for network devices, reducing vulnerability exposure.
+        ​- Print & Hardware Support: Optimized printer configurations and UPS/ATS systems, cutting print-related downtime and ensuring power continuity for critical servers.
+        ​- Unified Communications: Set up SIP phones (Cisco/Juniper) with call forwarding and voicemail integration, improving internal communication efficiency by 30%.
+        ​- Video Conferencing: Implemented Zoom/Microsoft Teams solutions with QoS prioritization, enabling seamless 100+ concurrent video calls during global meetings.
+
+  - role: ICT Technical Support
+    time:  June 2015 - December 2016
+    company: Moraitis Communications 
+    details: |
+        - ​Secured Network Infrastructure: Configured VPNs, firewalls, routing, and VLANs to safeguard sensitive data, achieving 99.9% network uptime and zero breaches during audits.
+        ​- Managed Active Directory & File Services: Streamlined user authentication, file sharing, FTP, and print services for 1,000+ users.
+        ​- Enhanced Email Security: Implemented advanced anti-spam policies (e.g., SPF, DKIM), blocking 95% of malicious emails and improving compliance with GDPR/PCI DSS standards.
+        ​- Remote Work Solutions: Extended Remote Desktop support to Windows/Mac users, enabling secure remote access for 500+ employees .
+        ​- Optimized Web Services: Managed Apache configurations and DNS setups, improving website load times and ensuring high availability for critical business applications.
+        ​- Strengthened Vendor Relationships: Led project account management, negotiating SLAs and resolving vendor issues swiftly to meet 100% delivery deadlines.
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
+  - name: AWS Certified DevOps Engineer – Professional 
+    organization: AWS
+  - name: AWS Certified Solutions Architect – Professional
+    organization: AWS
+  - name: Developing Microsoft Azure Solutions
+    organization: Azure
+  - name: Designing and Implementing Microsoft DevOps Solutions
+    organization: Azure
+  - name: Certified Kubernetes Administrator
+    organization: Kubernetes
+  - name: Certified Kubernetes Security
+    organization: Kubernetes
+  - name: Microsoft Certified System Administrator
     organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+  - name: Red Hat Certified System Administrator
+    organization: Red Hat Linux
+  - name: Cisco Certified Network Professional
+    organization: Cisco
+    
 
 projects:
   title: Projects
