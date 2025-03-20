@@ -241,20 +241,22 @@ skills:
     level: 98%
 
   - name: AWS & GCP
-    level: 98%
-
-  - name: Github Action/ Jenkins
-    level: 95%
-
-  - name: Docker & Kubernetes
     level: 90%
 
+  - name: Github Action/ Jenkins
+    level: 90%
+
+
+
   - name: Linux
-    level: 98%
+    level: 90%
 
   - name: Monitoring
     level: 90%
 
-  - name: Security
+  - name: Docker & Kubernetes
     level: 80%
+
+  - name: Security
+    level: 60%
 
