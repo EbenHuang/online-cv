@@ -235,10 +235,10 @@ skills:
 
   toolset:
   - name: Python & Bash
-    level: 98%
+    level: 90%
 
   - name: Terraform & Cloudformation
-    level: 98%
+    level: 90%
 
   - name: AWS & GCP
     level: 90%
@@ -252,7 +252,7 @@ skills:
     level: 90%
 
   - name: Monitoring
-    level: 90%
+    level: 80%
 
   - name: Docker & Kubernetes
     level: 80%
